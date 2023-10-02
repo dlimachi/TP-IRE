@@ -9,4 +9,5 @@ Tener instalado las siguientes librerias:
         pip install pygame
 
 Luego podemos correr el programa
+    
     py reproductor.py
