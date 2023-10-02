@@ -1,6 +1,7 @@
 **Compilación del programa**
 
 Tener instalado las siguientes librerias:
+    
     - tkinter
         pip install tk
 
